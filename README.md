@@ -2,3 +2,31 @@
 
 A MERN app for a basic Employee Management System in which you can add and remove employee details. 
 <p>This was developed for the <b>Web Dev Intenship test of Sparkleo</b></p>
+
+## Screenshots
+<img src="https://github.com/alimazhar4/Employee-Management-System/assets/59063759/7d5f5c75-9b31-426e-9f86-d57f35c1a9a1" width=60%>
+<img src="https://github.com/alimazhar4/Employee-Management-System/assets/59063759/1c16a5db-5d27-4672-830b-d46637c0c400" width=60%>
+<img src="https://github.com/alimazhar4/Employee-Management-System/assets/59063759/0eef35a9-ee07-4264-a730-4e3f43408836" width=60%>
+
+
+
+##Installation
+1) <p>Inside your MongoDB server make a connection to localhost:27017 and make a database using:<br />
+   Database Name: "employee-management"<br />
+   Database Collection: "employee"</p>
+   If you want to use some other names, do remember to also change them according in the backend (api) folder.
+2) Install dependencies in the backend (api) and frontend (client) folder using
+   ```sh
+   npm install
+   ```
+   
+4) Now run the backend by
+   ```sh
+  cd api
+  npm start
+  ```
+4) Now run the front by
+   ```sh
+  cd client
+  npm start
+  ```
