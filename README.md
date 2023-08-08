@@ -1,7 +1,6 @@
 # Employee-Management-System
 
 A MERN app for a basic Employee Management System in which you can add and remove employee details.
-<p>This was developed for the <b>Web Dev Intenship test of Sparkleo</b></p>
 
 ## Screenshots
 <p align="center"><img src="https://github.com/alimazhar4/Employee-Management-System/assets/59063759/1c16a5db-5d27-4672-830b-d46637c0c400" width=70%>
